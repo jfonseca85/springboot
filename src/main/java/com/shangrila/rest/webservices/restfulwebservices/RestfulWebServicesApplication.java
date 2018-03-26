@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices;
+package com.shangrila.rest.webservices.restfulwebservices;
 
 import java.util.Locale;
 

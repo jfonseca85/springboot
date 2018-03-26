@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices;
+package com.shangrila.rest.webservices.restfulwebservices;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -18,7 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
 
 	public static final Contact DEFAULT_CONTACT = new Contact(
-			"Ranga Karanam", "http://www.in28minutes.com", "in28minutes@gmail.com");
+			"Jorge Fonseca", "http://www.shangrila.com", "luis.engcomp@gmail.com");
 	
 	public static final ApiInfo DEFAULT_API_INFO = new ApiInfo(
 			"Awesome API Title", "Awesome API Description", "1.0",
